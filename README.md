@@ -38,3 +38,7 @@ Uses useState to manage the rotation state (isRotating).
 Implements the rotation animation using inline styles (transform) and Tailwind CSS classes (transition-transform, duration-1000) for smooth animation.
 Integrates FaSyncAlt icon from react-icons for visual representation of the rotation.
 Provides visual feedback to users by animating the button's icon upon click interaction.
+
+
+
+Live link to View my project: https://forms.gle/oSRU81XVqep1KCmw9
