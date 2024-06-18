@@ -1,4 +1,5 @@
 Task Descriptions for README File
+
 Task 1: Fade-In Animation for a Specific Component
 Description:
 Implement a fade-in animation for a specific component that smoothly appears when it enters the screen.
@@ -41,4 +42,4 @@ Provides visual feedback to users by animating the button's icon upon click inte
 
 
 
-Live link to View my project: https://forms.gle/oSRU81XVqep1KCmw9
+Live link to View my project: https://akash-react-task.netlify.app/
