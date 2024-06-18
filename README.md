@@ -1,3 +1,7 @@
+## How to Run
+1. Unzip the Akash_React folder.
+2. Open Terminal and run : npm run dev
+
 Task Descriptions for README File
 
 Task 1: Fade-In Animation for a Specific Component
@@ -43,3 +47,5 @@ Provides visual feedback to users by animating the button's icon upon click inte
 
 
 Live link to View my project: https://akash-react-task.netlify.app/
+
+
