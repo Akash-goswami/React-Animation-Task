@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Discription() {
   return (
-    <div>
+    <div id="Discription">
       <div className="text-center my-10">
         <h1 className="font-bold text-[20px]">
           Task 1: Fade-In Animation for a Specific Component{" "}
